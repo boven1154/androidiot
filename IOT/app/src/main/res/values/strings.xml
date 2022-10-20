@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IOT</string>
+    <string name="temperature">Temperature is N/A Celsius</string>
+    <string name="humidity">Humidity is N/A Percent</string>
+    <string name="temp">Temperature</string>
+    <string name="humid">Humidity</string>
+    <string name="light1">Light 1</string>
+    <string name="light2">Light 2</string>
+    <string name="on">Turn on</string>
+    <string name="off">Turn off</string>
+    <string name="celsius">Celsius</string>
+    <string name="percent">Percent</string>
+</resources>

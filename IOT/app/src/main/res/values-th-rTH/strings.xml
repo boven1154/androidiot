@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ไอโอที</string>
+    <string name="temperature">ไม่ทราบค่าอุณหภูมิ</string>
+    <string name="humidity">ไม่ทราบค่าความชื้น</string>
+    <string name="temp">อุณหภูมิ</string>
+    <string name="humid">ความชื้น</string>
+    <string name="light1">ไฟดวงที่ 1</string>
+    <string name="light2">ไฟดวงที่ 2</string>
+    <string name="on">เปิด</string>
+    <string name="off">ปิด</string>
+    <string name="celsius">เซลเซียส</string>
+    <string name="percent">เปอร์เซ็น</string>
+</resources>
